@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aaa.iml" filepath="$PROJECT_DIR$/.idea/aaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drug-api/drug-api.iml" filepath="$PROJECT_DIR$/drug-api/drug-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drug-html/drug-html.iml" filepath="$PROJECT_DIR$/drug-html/drug-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-api-drug/springboot-api-shop.iml" filepath="$PROJECT_DIR$/springboot-api-drug/springboot-api-shop.iml" />
+    </modules>
+  </component>
+</project>

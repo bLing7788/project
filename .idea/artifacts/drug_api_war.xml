@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="drug-api:war">
+    <output-path>$PROJECT_DIR$/drug-api/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>drug-api</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="drug-api.war">
+      <element id="artifact" artifact-name="drug-api:war exploded" />
+    </root>
+  </artifact>
+</component>
